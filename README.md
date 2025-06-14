@@ -1,7 +1,7 @@
 
 # Pinky Calculator - Because Math Should Be Fun!
 
-"Who said calculators have to be boring? Meet **Pinky** - the calculator that's so extra, it even has a `tan()` function!" 🌸
+Who said calculators have to be boring? Meet **Pinky** - the calculator that's so extra 🌸
 
 ---
 
